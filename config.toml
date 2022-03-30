@@ -1,13 +1,13 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
+author = ""
 baseURL = "https://gohugo.io/"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2022, Marketing Blog"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
-title = "Hugo Themes"
+title = "Marketing Blog"
 [[menu.main]]
 identifier = "about"
 name = "About"
