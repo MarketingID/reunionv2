@@ -9,6 +9,11 @@ paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "Marketing Blog"
 [[menu.main]]
+identifier = "Posts"
+name = "Posts"
+url = ""
+weight = nil
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
