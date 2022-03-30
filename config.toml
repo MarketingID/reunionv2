@@ -29,7 +29,7 @@ name = "Author Homepage"
 url = "https://jonathanjanssens.com"
 weight = 40
 [params]
-description = ""
+description = "Demo MKT ID"
 facebook = ""
 github = ""
 logo = "/images/hugo.png"
