@@ -9,9 +9,9 @@ paginate = 3
 theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "Marketing Blog"
 [[menu.main]]
-identifier = ""
-name = ""
-url = ""
+identifier = "Github"
+name = "Github"
+url = "github.com/jonathanjanssens/hugo-casper3"
 weight = nil
 [[menu.main]]
 identifier = "Posts"
